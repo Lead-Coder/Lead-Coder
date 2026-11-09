@@ -24,12 +24,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lead-Coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lead-Coder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=Lead-Coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lead-Coder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lead-Coder&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Lead-Coder&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
